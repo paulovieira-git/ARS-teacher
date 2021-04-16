@@ -1,5 +1,5 @@
 # ARS-teacher
-# 1- Descrição do Trabalho
+# 1 Descrição do Trabalho
 bla bla bla
 ## 1.1 Servidor
 bla bla bla  bla bla bla
@@ -10,4 +10,8 @@ bla bla bla
 ## 2.1 Exemplos
 bla bla bla
 ## 2.2 Imagens
-# 3-Conclusão
+bla bla  bla
+# 3 Conclusão
+bla bla bla
+# 4 Bibliografia  
+bla bla bla
