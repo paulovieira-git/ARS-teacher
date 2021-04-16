@@ -11,6 +11,7 @@ bla bla bla
 bla bla bla
 ## 2.2 Imagens
 bla bla  bla
+![title](images/servidor-help.png)
 # 3 Conclusão
 bla bla bla
 # 4 Bibliografia  
